@@ -1,0 +1,6 @@
+@SineWaveApi_HostAddress = http://localhost:5261
+
+GET {{SineWaveApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
